@@ -4,3 +4,4 @@ document.querySelectorAll('.work-card,.demo-card,.timeline-item,.section-intro')
 document.addEventListener('DOMContentLoaded',()=>document.querySelectorAll('.in-view').forEach(el=>{el.style.opacity='1';el.style.transform='none'}));
 observer.takeRecords;
 setInterval(()=>document.querySelectorAll('.in-view').forEach(el=>{el.style.opacity='1';el.style.transform='none'}),120);
+const heatmap=document.querySelector('.heatmap'); if(heatmap){for(let i=0;i<182;i++){const cell=document.createElement('i'); heatmap.appendChild(cell)}}
