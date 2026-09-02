@@ -1,8 +1,8 @@
 title: determine · AI Agent & Robotics
 description: determine 的个人学术主页：AI Agent、大模型应用、机器人与控制。
 url: "https://determine123.github.io"
-baseurl: "/determine.github.io"
-repository: "determine123/determine.github.io"
+baseurl: ""
+repository: "determine123/determine123.github.io"
 theme: null
 author:
   name: determine
