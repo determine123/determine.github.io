@@ -1,10 +1,12 @@
-- title: 关于
-  url: /#about
-- title: 研究
+- title: About Me
+  url: /#about-me
+- title: News
+  url: /#news
+- title: Work
   url: /#work
-- title: 方向
+- title: Projects
   url: /#demos
-- title: 经历
-  url: /#timeline
-- title: 联系
-  url: /#contact
+- title: Education
+  url: /#educations
+- title: Skills
+  url: /#skills
